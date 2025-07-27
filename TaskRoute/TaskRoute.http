@@ -1,0 +1,6 @@
+@TaskRoute_HostAddress = http://localhost:5034
+
+GET {{TaskRoute_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
